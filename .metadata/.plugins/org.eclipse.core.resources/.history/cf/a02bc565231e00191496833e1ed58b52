@@ -1,0 +1,5 @@
+package com.cg.helloWorld.app.helloservice.controller;
+
+public class ServiceInstanceRestController {
+
+}

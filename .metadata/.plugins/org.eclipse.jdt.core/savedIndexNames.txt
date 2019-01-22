@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\ASSIGNMENTS\EurekaServer\.metadata\.plugins\org.eclipse.jdt.core
+1698827149.index
+3299605132.index
+3181951865.index
+2836581019.index
+1411384003.index
+873049347.index

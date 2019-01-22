@@ -1,0 +1,5 @@
+package com.cg.helloWorld.app.webservice.controller;
+
+public class WebAppController {
+
+}
